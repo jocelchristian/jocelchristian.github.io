@@ -1,0 +1,41 @@
+.preview {
+    width: 100%;
+    max-width: 700px;
+    border: 1px solid #4D4E53;
+    border-radius: 2px;
+    padding: 0;
+    overflow: hidden;
+    clear: both;
+  }
+
+
+.box1 {
+    border: 5px solid teal;
+    width: 400px;
+    box-sizing: border-box;
+  }
+
+.box2 {
+    border: 5px solid teal;
+    width: 400px;
+    box-sizing: border-box;
+  }
+
+
+.playable {
+    font-family: monospace;
+    display: block;
+    margin-bottom: 10px;
+    background-color: #F4F7F8;
+    border: none;
+      border-left-color: currentcolor;
+      border-left-style: none;
+      border-left-width: medium;
+    border-left: 6px solid #558ABB;
+    color: #4D4E53;
+    width: 90%;
+    max-width: 700px;
+    padding: 10px 10px 0px;
+    font-size: 90%;
+    box-sizing: border-box;
+  }

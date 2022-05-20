@@ -1,0 +1,28 @@
+{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color:yellowgreen;
+    margin-left: 0.2in;
+}
+h2{
+    color: blue;
+    margin-left: 0.2in;
+}
+img{
+    border-radius: 50%;
+    border: 20px solid;
+    z-index: -1;
+}
+html {
+    background: url(zzz.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+p{
+    color: blanchedalmond;
+}
+ul{
+    color: bisque;
+    
+}
